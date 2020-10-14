@@ -1,0 +1,104 @@
+th{
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+}
+table{
+    border-style: none;
+}
+
+
+td.cls_1{
+    background-color: coral;
+    color: darkgreen;
+}
+
+td.cls_2{
+    background-color: rgb(25, 247, 235);
+    color: darkgreen;
+}
+
+td.cls_3{
+    background-color:plum;
+    color: purple;
+}
+
+td.cls_4{
+    background-color: plum;
+    color: darkblue;
+}
+
+td.cls_5{
+    background-color: lightblue;
+    color: darkblue;
+}
+
+td.cls_6{
+    background-color: yellow;
+    color: black;
+}
+ 
+td.cls_7{
+    background-color: yellow;
+    color: blue;
+}
+
+td.cls_8{
+    background-color: pink;
+}
+
+td.cls_9{
+    background-color: yellow;
+    color: red;
+}
+
+td.cls_10{
+    background-color:whitesmoke;
+    color: red;
+}
+
+td.cls_11{
+    background-color: chocolate;
+}
+
+td.cls_12{
+    background-color: peachpuff;
+}
+
+td.cls_13{
+    background-color: peachpuff;
+    color: green;
+}
+
+td.cls_14{
+    background-color: lightgreen;
+}
+
+td.cls_15{
+    background-color: lightgreen;
+    color: blue;
+}
+
+td.cls_16{
+    background-color: peachpuff;
+    color: green;
+}
+ 
+td.cls_17{
+    background-color: peachpuff;
+    color: blue;
+}
+
+td.cls_18{
+    background-color: peachpuff;
+}
+
+td.cls_19{
+    background-color: pink;
+}
+
+td.cls_20{
+    background-color: pink;
+    color: red;
+}
